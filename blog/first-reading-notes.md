@@ -1,7 +1,7 @@
 # Jeff's reading of the Blog. Questions, suggestions, otherses.
 
 ### Questions
-- What happened to Kate's context app? https://xclassifiedxexperimentsx.tumblr.com/post/130357966982/kates-project-context-app
+- What happened to Kate's context app?jlkjlk https://xclassifiedxexperimentsx.tumblr.com/post/130357966982/kates-project-context-app
 - What happened to sergey?
 - What does this mean --> "we made the decision to stop manually driving projects and it’s resulted in a large drop off in projects launched." - https://xclassifiedxexperimentsx.tumblr.com/post/130629842272/october-update
 - Does this content still exist? --> I’ve already started documenting the human help I would give someone if I were to walk them through project create on the phone here: https://experiment.helpjuice.com/13290-Creating-A-Project ... https://xclassifiedxexperimentsx.tumblr.com/post/130672106937/automating-the-funnel-starting-at-the-top
